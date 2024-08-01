@@ -5,5 +5,3 @@
    <li>Responsive Design including mobile, laptop and tablet.</li>
    <li>It includes Hover Elements.</li>
 </ul>
-<h6>Preview :</h6>
-<video src="./imgs/X. Home _ X - Google Chrome 2024-07-13 11-37-39.mp4"></video>
